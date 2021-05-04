@@ -1,2 +1,2 @@
 # hello-world
-First git reepository
+First git repository
